@@ -17,11 +17,11 @@
 
 ## Introduction
 
-You are required to construct a computer program that will allow two people to play a game of your choosing. The game should be original, and not simply a well-known game such as Noughts and Crosses, or Hangman (since code for these games is too easily available).
+You are required to construct a computer program that will allow two people to play a simple, one-dimensional board game. The choice of games can be found in the [Games](games.md) document.
 
 You will be assessed on how skilfully and effectively you construct, test, debug and document the program.
 
-*Note: If you cannot think of a game to create, [this document](ideas.md) has some suggestions for types of games that you could implement, and details a game called 'Old Gold' that you can base your program on.*
+*Note: If you cannot think of a game to create, [this document](games.md) has some suggestions for types of games that you could implement, and details a game called 'Old Gold' that you can base your program on.*
 
 
 ## Assessment Conditions
@@ -121,8 +121,8 @@ Use advanced programming techniques to develop a refined computer program means 
 
 At the end of this project you will need to submit the following:
 
-1. **Program Source Code** - a copy of your [program source](../src) file(s)
+1. **Program Source Code** - a copy of your [program source](../../src) file(s)
 
-2. **Runnable Program** - an executable file (e.g. a JAR)
+2. **Runnable Program** - an executable file (e.g. a JAR or EXE)
 
 3. **Evidence of Testing** - [planning](test-plan.md) and [evidence](test-results.md) template have been provided for you to use for this

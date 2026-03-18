@@ -4,7 +4,7 @@ by YOUR NAME HERE
 
 ---
 
-This is a programming project for **NCEA Level 2**, assessed against standard [91896](as91896.pdf).
+This is a programming project for **NCEA Level 2**, assessed against standard [91896](task/as91896.pdf).
 
 The project is written in the [Kotlin](https://kotlinlang.org) programming language and demonstrates a number of **advanced programming techniques**:
 - Modifying data stored in collections
