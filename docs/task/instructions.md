@@ -21,9 +21,6 @@ You are required to construct a computer program that will allow two people to p
 
 You will be assessed on how skilfully and effectively you construct, test, debug and document the program.
 
-*Note: If you cannot think of a game to create, [this document](games.md) has some suggestions for types of games that you could implement, and details a game called 'Old Gold' that you can base your program on.*
-
-
 ## Assessment Conditions
 
 This is an 'open book' task. You may look at previous programs that you have written, and you may use the notes provided (e.g. the language reference documents). You may not however, simply modify a previous project - all code must be original.
